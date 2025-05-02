@@ -1,4 +1,11 @@
 # BEE-102-Spring-2025-Assignment
+
+
+## Name- Yash Jain
+## Enrollment Number- 23125040
+## Branch- CSE
+
+
 This is the programming assignment given in the course BEE-102 in the Spring semester 2025.
 
 The code is written in Python in Jupyter Notebooks for each question. The explanation has been provided majorly with the code as comments for better understanding of the logic used for the solution. The code is already executed so the results can be directly seen in the notebooks.
